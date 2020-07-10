@@ -32,7 +32,7 @@ from tqdm import tqdm
 
 parser = argparse.ArgumentParser()
 
-parser.add_argument('fasta_file', help='FASTA file with all proteins of interest')
+parser.add_argument('C:\users\administrator\documents\Database_PR489_SPI_ART4_Peptide.fasta', help='FASTA file with all proteins of interest')
 
 args = parser.parse_args()
 
